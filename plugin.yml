@@ -1,0 +1,8 @@
+name: "MysticalChest"
+version: "1.0.0"
+main: "MysticalChestManager"
+api: "5.0.0"
+
+author: "rizdevv"
+
+load: "STARTUP"
